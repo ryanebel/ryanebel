@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanebel
-- 👀 I’m interested in Azure Cloud Computing
-- 🌱 I’m currently learning Azure
+- 👀 I’m interested in DevOps, Web Design, Database Programming
+- 🌱 I’m currently learning Json
 - 💞️ I’m looking to collaborate on Python or C++ Programming
 - 📫 How to reach me professionalengineeringclub@gmail.com
 
